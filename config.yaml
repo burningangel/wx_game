@@ -1,0 +1,27 @@
+# win窗口名
+name: "OPPO A57"
+times: 1000
+# 模型文件
+model: model.pkl
+# 表达式区域
+expr:
+  x: 1.5
+  y: 0.4
+  width: 0.9
+  height: 0.6
+# adb选项的位置
+adb:
+  right:
+    x: 180
+    y: 1090
+  error:
+    x: 553
+    y: 1090
+# win选项的位置
+win:
+  right:
+    x: 0.26
+    y: 0.81
+  error:
+    x: 0.72
+    y: 0.81
